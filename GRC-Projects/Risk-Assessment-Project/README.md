@@ -1,7 +1,9 @@
 # Cybersecurity Risk Assessment and Risk Register
 
 **Prepared by:** Wendell Jean-Pierre
+
 **Project Type:** Simulated GRC Case Study
+
 **Status:** In Progress
 
 ## 1. Project Overview
