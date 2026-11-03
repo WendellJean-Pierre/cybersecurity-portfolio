@@ -76,7 +76,8 @@ The assessment will examine:
 - Recommended security controls
 - Risk treatment recommendations
 - Executive summary of assessment findings
-
+- [Executive Summary](executive-summary.md)
+- 
 ## 8. Project Progress
 
 - [x] Define the fictional organization and assessment scope
@@ -85,7 +86,7 @@ The assessment will examine:
 - [x] Complete the risk register
 - [x] Evaluate and prioritize risks
 - [x] Document security control recommendations
-- [ ] Prepare the executive summary
+- [x] Prepare the executive summary
 
 ## 9. Professional Development Focus
 
