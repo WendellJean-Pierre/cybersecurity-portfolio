@@ -38,14 +38,17 @@ Critical assets include:
 This project uses a simplified qualitative risk assessment approach informed by NIST SP 800-30.
 
 Each risk will receive:
-- **Likelihood:** Low (1), Medium (2), or High (3)
-- **Impact:** Low (1), Medium (2), or High (3)
+
+- **Likelihood:** Rare (1), Unlikely (2), Possible (3), Likely (4), or Almost Certain (5)
+- **Impact:** Insignificant (1), Minor (2), Moderate (3), Major (4), or Severe (5)
 - **Risk Score:** Likelihood × Impact
 
 Risk scores are grouped as follows:
-- **Low:** 1–2
-- **Medium:** 3–4
-- **High:** 6–9
+
+- **Low:** 1–4
+- **Medium:** 5–9
+- **High:** 10–15
+- **Critical:** 16–25
 
 These scoring thresholds are defined for this simulated exercise and are not an official NIST scoring scale.
 
