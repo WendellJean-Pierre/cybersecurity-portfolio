@@ -77,7 +77,7 @@ The assessment will examine:
 - Risk treatment recommendations
 - Executive summary of assessment findings
 - [Executive Summary](executive-summary.md)
-- 
+
 ## 8. Project Progress
 
 - [x] Define the fictional organization and assessment scope
