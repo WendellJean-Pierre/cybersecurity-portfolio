@@ -82,9 +82,9 @@ The assessment will examine:
 - [x] Define the fictional organization and assessment scope
 - [x] Establish the risk scoring methodology
 - [x] Identify initial risk scenarios
-- [ ] Complete the risk register
-- [ ] Evaluate and prioritize risks
-- [ ] Document security control recommendations
+- [x] Complete the risk register
+- [x] Evaluate and prioritize risks
+- [x] Document security control recommendations
 - [ ] Prepare the executive summary
 
 ## 9. Professional Development Focus
