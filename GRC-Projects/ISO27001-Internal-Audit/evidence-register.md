@@ -33,7 +33,7 @@ Evidence status describes the collection and review process. It does not automat
 
 | Evidence ID | Audit Area | Evidence Requested | Proposed Owner | Status |
 |---|---|---|---|---|
-| E-01 | Governance | Information security policy and management approval record | Compliance Officer | Requested |
+| E-01 | Governance | Information security policy and management approval record | Compliance Officer | Reviewed |
 | E-02 | Governance | Policy communication and review records | Compliance Officer | Requested |
 | E-03 | Risk Management | Risk assessment methodology | IT Manager | Requested |
 | E-04 | Risk Management | Risk register, treatment plan, and approval records | IT Manager | Requested |
@@ -57,7 +57,7 @@ Evidence status describes the collection and review process. It does not automat
 
 | Evidence ID | Document Reviewed | Auditor Observation | Review Date | Status |
 |---|---|---|---|---|
-| E-01 | Pending | Pending | Not recorded | Requested |
+| E-01 | Synthetic Information Security Policy v1.2 | Policy marked Draft; no management approval record provided. Preliminary GOV-01 assessment: Not Met. Request approved version and approval evidence before finalizing. | 2026-11-04 | Reviewed |
 | E-02 | Pending | Pending | Not recorded | Requested |
 | E-03 | Pending | Pending | Not recorded | Requested |
 | E-04 | Pending | Pending | Not recorded | Requested |
