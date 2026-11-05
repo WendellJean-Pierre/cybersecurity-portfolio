@@ -28,7 +28,7 @@ A control or requirement must not be marked Met solely because a policy or proce
 | ID | ISO Reference | Audit Question | Evidence Requested | Status |
 |---|---|---|---|---|
 | GOV-01 | Annex A 5.1 | Is an information security policy established and approved by appropriate management? | Approved security policy and approval record | Not Met (Preliminary) |
-| GOV-02 | Annex A 5.1 | Is the information security policy communicated to relevant personnel? | Communication or acknowledgment records | Not Assessed |
+| GOV-02 | Annex A 5.1 | Is the information security policy communicated to relevant personnel? | Communication or acknowledgment records | Insufficient Evidence (Preliminary) |
 | GOV-03 | Annex A 5.1 | Are information security policies reviewed at planned intervals or when significant changes occur? | Policy review history and revision records | Not Assessed |
 
 ## 4. Audit Area 2: Risk Assessment and Risk Treatment
@@ -43,8 +43,7 @@ A control or requirement must not be marked Met solely because a policy or proce
 
 | ID | ISO Reference | Audit Question | Evidence Requested | Status |
 |---|---|---|---|---|
-| IAM-01 | Annex A 5.15 | Are access control rules defined and applied according to business and security requirements?
-| Access control policy and authorization rules | Not Assessed |
+| IAM-01 | Annex A 5.15 | Are access control rules defined and applied according to business and security requirements? | Access control policy and authorization rules | Not Assessed |
 | IAM-02 | Annex A 5.16 and 5.18 | Are user identities and access rights managed through documented provisioning, modification, and removal procedures? | User access management procedure and synthetic account records | Not Assessed |
 | IAM-03 | Annex A 8.5 | Are secure authentication controls defined and implemented for relevant systems? | Authentication policy and synthetic MFA configuration evidence | Not Assessed |
 
