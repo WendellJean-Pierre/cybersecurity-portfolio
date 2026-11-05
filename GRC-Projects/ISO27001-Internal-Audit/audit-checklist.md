@@ -1,0 +1,46 @@
+# ISO 27001 Internal Security Audit Checklist
+
+**Organization:** Clearview Community Health (Fictional)  
+**Auditor:** Wendell Jean-Pierre  
+**Audit Reference:** CCH-IA-001  
+**Standard:** ISO/IEC 27001:2022  
+**Assessment Status:** Not Started
+
+## 1. Purpose
+
+This checklist supports a simulated internal security audit of Clearview Community Health.
+
+The checklist identifies audit questions, relevant ISO 27001 references, and evidence requests for three selected audit areas.
+
+No compliance conclusions have been reached. Assessment results will be documented after reviewing synthetic evidence.
+
+## 2. Assessment Status Definitions
+
+- **Met:** Sufficient evidence supports the applicable audit criterion.
+- **Not Met:** Evidence demonstrates that an applicable requirement or documented control expectation has not been satisfied.
+- **Insufficient Evidence:** Available information does not support a defensible conclusion.
+- **Not Applicable:** The criterion is not applicable to the defined audit scope, with documented justification.
+
+A control or requirement must not be marked Met solely because a policy or procedure exists.
+
+## 3. Audit Area 1: Information Security Policies and Governance
+
+| ID | ISO Reference | Audit Question | Evidence Requested | Status |
+|---|---|---|---|---|
+| GOV-01 | Annex A 5.1 | Is an information security policy established and approved by appropriate management? | Approved security policy and approval record | Not Assessed |
+| GOV-02 | Annex A 5.1 | Is the information security policy communicated to relevant personnel? | Communication or acknowledgment records | Not Assessed |
+| GOV-03 | Annex A 5.1 | Are information security policies reviewed at planned intervals or when significant changes occur? | Policy review history and revision records | Not Assessed |
+
+## 4. Audit Area 2: Risk Assessment and Risk Treatment
+
+| ID | ISO Reference | Audit Question | Evidence Requested | Status |
+|---|---|---|---|---|
+| RISK-01 | Clause 6.1.2 | Has the organization defined and applied an information security risk assessment process? | Risk assessment methodology and assessment records | Not Assessed |
+| RISK-02 | Clause 6.1.3 | Are risk treatment decisions documented and supported by a risk treatment plan? | Risk treatment plan and risk register | Not Assessed |
+| RISK-03 | Clause 6.1.3 | Is there documented evidence of risk owner approval of treatment plans and acceptance of residual risks? | Risk owner approval records and residual risk acceptance records | Not Assessed |
+
+## 5. Audit Area 3: Identity and Access Management
+
+| ID | ISO Reference | Audit Question | Evidence Requested | Status |
+|---|---|---|---|---|
+| IAM-01 | Annex A 5.15 | Are access control rules defined and applied according to business and security requirements?
